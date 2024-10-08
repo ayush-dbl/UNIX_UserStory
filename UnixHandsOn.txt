@@ -1,0 +1,9 @@
+awk -FS"|" '{status[$7]++} END {for (s in status) print s, status[s]}' Complaints.txt
+
+
+
+awk -F"|" '$1 == "1101132490783" {print $1 "|" $2 "|" $5 "|" $6} END {if (!found); else print "Consumer not found"}' bill.txt
+
+
+awk -F"|" '{avg=($3+$4+$5+$6+$7)/5; print $1 "|" $2 "|" avg}' bill1.txt | sort -t "|" -k3,3nr
+

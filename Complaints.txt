@@ -1,0 +1,8 @@
+101|John Doe|Billing Issue|Finance|123 Main St, City A|1234567890|Resolved
+102|Jane Smith|Service Interruption|Network|456 Elm St, City B|0987654321|Open
+103|Robert Brown|Technical Support|IT|789 Oak St, City A|1122334455|Pending
+104|Emily Davis|Billing Issue|Finance|321 Pine St, City C|2233445566|Open
+105|Michael Johnson|Installation Issue|Network|654 Cedar St, City B|3344556677|Resolved
+106|Laura Wilson|Service Interruption|Network|987 Birch St, City C|4455667788|Pending
+107|David Clark|Technical Support|IT|159 Maple St, City A|5566778899|Open
+108|Sarah Lewis|Billing Issue|Finance|753 Aspen St, City B|6677889900|Resolved
